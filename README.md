@@ -69,7 +69,6 @@ python youtubedownloader.py <url> --output /path/to/directory
 
 ## Arguments
 
-  Argument      Description
   ------------- -----------------------------------------
   `url`         YouTube video or playlist URL
   `--audio`     Download audio only (MP3 format)
