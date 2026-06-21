@@ -25,6 +25,16 @@ sudo apt install ffmpeg
 
 -   Windows: Download from https://ffmpeg.org and add it to your PATH.
 
+Example: 
+  Open Powershell
+``` bash
+winget install Gyan.FFmpeg
+```
+  Close and open again Powershell
+``` bash
+ffmpeg -version
+```
+
 ------------------------------------------------------------------------
 
 ## Usage
